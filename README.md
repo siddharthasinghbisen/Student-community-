@@ -33,7 +33,7 @@ The services used are:-
 
 <h1>Authors</h1>
 <ul>
-<li><a href="https://github.com/uttejh" >Uttejh Reddy</a></li>
+<li><a href="https://github.com/siddharthasinghbisen" >Siddhartha Singh</a></li>
 </ul>
 
 <h1>License</h1>
